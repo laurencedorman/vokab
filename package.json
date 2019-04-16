@@ -16,6 +16,8 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "author": "laurencedorman",
+  "license": "GPL-3.0",
   "browserslist": [
     ">0.2%",
     "not dead",
